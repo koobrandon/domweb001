@@ -344,6 +344,12 @@ ul.cart-list>li.total>a.btn:hover {
 .slider-bg3{
 	background: url("assets/img/slider-bg/3.jpg") no-repeat;
 }
+.slider-bg4{
+	background: url("assets/img/communication/main.jpg") no-repeat;
+}
+.slider-bg5{
+	background: url("assets/img/communication/uc.jpg") no-repeat;
+}
 .homepage-slider{
 	width: 100%;
 	height: 850px;
